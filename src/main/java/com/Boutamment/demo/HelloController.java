@@ -16,6 +16,10 @@ public String hello(@RequestParam(required = false) String param) {
 
     
     public String hello(){
+<<<<<<< HEAD
         return "Hello java";
+=======
+        return "Hello Spring boot";
+>>>>>>> 2a4182d87df7ba919833b5dbebd957669b9e438d
     }
 }
